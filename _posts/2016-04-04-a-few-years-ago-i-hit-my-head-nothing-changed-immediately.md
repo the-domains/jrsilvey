@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "A few years ago, I hit my head. Nothing changed immediately. Then suddenly, everything was different.\_"
-datePublished: '2016-04-04T13:54:38.234Z'
-dateModified: '2016-04-04T13:54:30.496Z'
+description: "A few years ago, I hit my head. Nothing changed immediately. Then suddenly, everything changed.\_"
+datePublished: '2016-04-04T16:54:07.561Z'
+dateModified: '2016-04-04T16:54:05.453Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-04-a-few-years-ago-i-hit-my-head-nothing-changed-immediately.md
