@@ -2,12 +2,13 @@ name: Streams of Consciousness
 favicon: null
 layout_spectrum: 0.6216777877416462
 typography_spectrum: 0.7925913033541292
+title: Streams of Consciousness
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-59622046-2
   facebook: null
   twitter: null
 opengraph:
