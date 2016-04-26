@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Fractal Geometry: A Hidden Connection Between the Mind and the Universe '
-datePublished: '2016-04-26T01:31:54.564Z'
-dateModified: '2016-04-26T01:31:49.727Z'
+datePublished: '2016-04-26T01:58:29.937Z'
+dateModified: '2016-04-26T01:58:08.825Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-26-fractal-geometry-a-hidden-connection-between-the-mind-and-t.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-26-fractal-geometry-a-hidden-connection-between-the-mind-and-t.md
-published: true
+starred: true
 url: fractal-geometry-a-hidden-connection-between-the-mind-and-t/index.html
 _type: Article
 
