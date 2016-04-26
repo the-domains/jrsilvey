@@ -1,15 +1,16 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
 keywords: []
-description: "A few years ago, I hit my head. Nothing changed immediately. Then suddenly, everything changed.\_"
-datePublished: '2016-04-04T16:54:07.561Z'
-dateModified: '2016-04-04T16:54:05.453Z'
-title: ''
-author: []
+description: 'A few years ago, I hit my head. Then suddenly, everything changed. '
+datePublished: '2016-04-26T01:57:49.424Z'
+dateModified: '2016-04-26T01:54:18.450Z'
+title: Identity Lost
+author:
+  - name: jr silvey
+    url: www.jrsilvey.com
 sourcePath: _posts/2016-04-04-a-few-years-ago-i-hit-my-head-nothing-changed-immediately.md
 published: true
 authors: []
@@ -18,13 +19,14 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: a-few-years-ago-i-hit-my-head-nothing-changed-immediately/index.html
 _type: Article
 
 ---
 ![Identity Lost](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a0c820b-ea67-4a44-bddc-d814583747ee.jpg)
 
-A few years ago, I hit my head. Nothing changed immediately. Then suddenly, everything changed. 
+A few years ago, I hit my head. Life continued. Then suddenly, everything changed. 
 
 Something happened after a I sustained a severe concussion (and possible hematoma.. the doctors were uncertain and gave me three MRIs to make sure) to affect the neurochemistry of my brain. It started slowly but grew until it fundamentally altered the way I experience the world. 
 
@@ -50,7 +52,7 @@ But my Magnum Opus.. The Theory of Everything. (_Despite what everyone thought a
 
 Perhaps some perspective should be inserted here. At the end of December 2014, I was a bartender with an AA from Broward College and never took math above pre-calculus. By my 35th birthday on March 12, 2015, I had developed a working Theory of Everything (working for me.. I still don't know how to organize it), found patterns in the untranslated Phaistos Disc (If it actually forms words, the Disc is the most complex man-made artifact next to the Shuttle Program) and by connecting the symbols on the disc find geometric shapes centuries before Euclid created Geometry, maps of star constellations, and a mathematical pattern which I could not complete but may support the Disc as also containing a Sothic Calendar. 
 
-There are names for these things. Traumatic Brain Injury. Synesthesia. Acquired Savant Syndrome. Neuroscience has only recently delved into synesthesia, a neurological syndrome which rewires the senses and causes individuals to "see" sounds, "hear" colors,  and "taste" smells.  In very rare cases, injuries to the brain can enhance memory, perception, and cognition and cause previously "neurotypical" (normal) people like [Derek Amato][0] to suddenly know how to play the piano, or Jason Padgett to start drawing fractals and doing complex mathematics, and do things they previously did not know how to do. 
+There are names for these things. Traumatic Brain Injury. Synesthesia. Acquired Savant Syndrome. Neuroscience has only recently delved into synesthesia, a neurological syndrome which rewires the senses and causes individuals to "see" sounds, "hear" colors, and "taste" smells. In very rare cases, injuries to the brain can enhance memory, perception, and cognition and cause previously "neurotypical" (normal) people like [Derek Amato][0] to suddenly know how to play the piano, or Jason Padgett to start drawing fractals and doing complex mathematics, and do things they previously did not know how to do. 
 > 
 > "_The rules of math, the rules of music, the rules of art are transmitted genetically_," says [Darold Treffert][1].
 
